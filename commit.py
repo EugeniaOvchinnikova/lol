@@ -1,0 +1,1 @@
+print ("Vichka loh")
